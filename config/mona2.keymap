@@ -26,12 +26,12 @@
 
         layer4_ESC {
             bindings = <&lt 4 ESC>;
-            key-positions = <39 38>;
+            key-positions = <0 33>;
         };
 
         tab {
             bindings = <&kp TAB>;
-            key-positions = <11 12>;
+            key-positions = <0 10>;
         };
     };
 
